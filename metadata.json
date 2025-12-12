@@ -1,0 +1,5 @@
+{
+  "name": "Game Night OS",
+  "description": "A comprehensive companion app for board game nights featuring player turn timers, random start player selection, and a searchable rulebook.",
+  "requestFramePermissions": []
+}
